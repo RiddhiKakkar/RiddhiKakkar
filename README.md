@@ -24,6 +24,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" height="80"  />
 </h1>
 
+•⁠  ⁠*Machine Learning*
+<h1 align = "center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="80" height="80"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="80" height="80" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80" height="80"  />
+</h1>
+
 
 •⁠  ⁠*Web Development*
 <h1 align = "center">
@@ -36,12 +43,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="80" height="80"  />
 </h1>
 
-•⁠  ⁠*Machine Learning*
-<h1 align = "center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="80" height="80"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="80" height="80" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80" height="80"  />
-</h1>
 
                                        
 <br>
@@ -50,4 +51,5 @@
 
 ## Want to know more? <img src="media/Developer.gif" width="45px">
 [<img alt="email" src="https://img.shields.io/badge/Email%20me-kakkarriddhi07@gmail.com-blue" />](mailto:kakkarriddhi07@gmail.com) <br>
-[<img alt="portfolio link" src="https://img.shields.io/badge/Leetcode-riddhikakkar-orange" />](https://leetcode.com/RiddhiKakkar/)
+[<img alt="portfolio link" src="https://img.shields.io/badge/Leetcode-riddhikakkar-orange" />](https://leetcode.com/RiddhiKakkar/) <br>
+[<img alt="portfolio link" src="https://img.shields.io/badge/Linkedin-riddhi-kakkar-blue" />](https://www.linkedin.com/in/riddhi-kakkar-807727222/) <br>
