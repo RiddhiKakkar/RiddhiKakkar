@@ -48,6 +48,14 @@
                                      
 <br>
 ## Want to know more? <br>
-- <a href="mailto:kakkarriddhi07@gmail.com"><img alt="email" src="https://img.shields.io/badge/Email%20me-kakkarriddhi07@gmail.com-blue" /></a> <br>
-- [Leetcode](https://leetcode.com/RiddhiKakkar/) <br>
-- [LinkedIn](https://www.linkedin.com/in/riddhi-kakkar-807727222/)
+<a href="mailto:kakkarriddhi07@gmail.com">
+  <img alt="email" src="https://img.shields.io/badge/Email%20me-kakkarriddhi07@gmail.com-blue" />
+</a>
+<br>
+<a href="https://leetcode.com/RiddhiKakkar/">
+  <img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-RiddhiKakkar-orange" />
+</a>
+<br>
+<a href="https://www.linkedin.com/in/riddhi-kakkar-807727222/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-RiddhiKakkar-blue" />
+</a>
