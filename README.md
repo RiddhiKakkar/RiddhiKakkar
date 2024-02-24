@@ -48,6 +48,6 @@
                                      
 <br>
 ## Want to know more?
-- [Email me](mailto:kakkarriddhi07@gmail.com)
-- [Leetcode](https://leetcode.com/RiddhiKakkar/)
+- [Email me](kakkarriddhi07@gmail.com) <br>
+- [Leetcode](https://leetcode.com/RiddhiKakkar/) <br>
 - [LinkedIn](https://www.linkedin.com/in/riddhi-kakkar-807727222/)
