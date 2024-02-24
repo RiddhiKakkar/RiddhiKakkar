@@ -11,15 +11,6 @@
 -  All of my projects are available at [https://github.com/RiddhiKakkar](https://github.com/RiddhiKakkar)
 
 <br>
-<img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" align="right" width="500">
-<br>
-## My GitHub Status
-<p>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhikakkar&count_private=true&theme=radical" alt="Riddhi :)" />
-<img  src="https://github-readme-stats.vercel.app/api?username=riddhikakkar&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Riddhi's GitHub Stats">
-</p>
-
-<br>
 
 ## My Skills<img src="media/skills.gif" height="50px">
 
