@@ -2,15 +2,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Riddhi Kakkar 👋
 </h3>
 
-</p>
-
-## About Me
--  My name is **Riddhi Kakkar**
--  B.Tech in Computer Science (2020-2024) from **Graphic Era University**
--  I am interested in **Web Development** and **Machine Learning** <br>
--  All of my projects are available at [https://github.com/RiddhiKakkar](https://github.com/RiddhiKakkar)
-
-<br>
+<img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif" align="right" width="500">
 
 ## My Skills<img src="media/skills.gif" height="50px">
 
