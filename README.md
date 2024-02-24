@@ -47,7 +47,7 @@
 <br>
                                      
 <br>
-## Want to know more?
-- [Email me](kakkarriddhi07@gmail.com) <br>
+## Want to know more? <br>
+- <a href="mailto:kakkarriddhi07@gmail.com"><img alt="email" src="https://img.shields.io/badge/Email%20me-kakkarriddhi07@gmail.com-blue" /></a> <br>
 - [Leetcode](https://leetcode.com/RiddhiKakkar/) <br>
 - [LinkedIn](https://www.linkedin.com/in/riddhi-kakkar-807727222/)
